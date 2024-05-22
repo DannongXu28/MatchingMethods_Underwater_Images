@@ -1,0 +1,3 @@
+#
+def mse():
+    return None
